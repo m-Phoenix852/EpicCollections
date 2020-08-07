@@ -1,0 +1,22 @@
+{
+  "name": "epiccollections",
+  "version": "1.0.0",
+  "description": "A simple to use NodeJS library to work with collections.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-Phoenix852/EpicCollections.git"
+  },
+  "keywords": [
+    "Collections"
+  ],
+  "author": "phoenix852",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m-Phoenix852/EpicCollections/issues"
+  },
+  "homepage": "https://github.com/m-Phoenix852/EpicCollections#readme"
+}
